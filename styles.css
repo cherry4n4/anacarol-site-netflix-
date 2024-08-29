@@ -7,10 +7,10 @@
 
 :root {
     --cor-de-fundo: black;
-    --cor-de-cabeçalho: rgb(71, 71, 71);
-    --cor-de-texto-principal: white;
-    --cor-menu: #16c398;
-    --cor-menu-itens: orange;
+    --cor-de-cabeçalho: rgb(185, 30, 30);
+    --cor-de-texto-principal: rgb(252, 252, 252);
+    --cor-menu: #000000;
+    --cor-menu-itens: rgb(0, 0, 0);
     --fonte-principal: "Poppins";
     font-family: 'Poppins', sans-serif;
     --fonte-secundaria: "Josefin Sans";
